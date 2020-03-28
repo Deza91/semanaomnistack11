@@ -1,0 +1,7 @@
+{
+    "git.enabled": true,
+    "eslint.alwaysShowStatus": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "eslint.lintTask.enable": true,
+    "eslint.format.enable": true
+}
